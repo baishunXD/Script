@@ -7,7 +7,7 @@ process = {"360tray.exe":"360安全卫士","360sd.exe":"360杀毒","MsMpEng.exe"
     ,"BaiduSdSvc.exe":"百度杀软","D_Safe_Manage.exe":"D盾","d_manage.exe":"D盾","SafeDogGuardCenter.exe":"安全狗",
      "safedogupdatecenter.exe":"安全狗","SafeDogSiteIIS.exe":"安全狗","yunsuo_agent_service.exe":"云锁",
      "yunsuo_agent_daemon.exe":"云锁","HwsPanel.exe":"护卫神","hws_ui.exe":"护卫神","hws.exe":"护卫神",
-     "hwsd.exe":"护卫神","hipstray.exe":"火绒","wsctrl.exe":"火绒","usysdiag.exe":"火绒"}
+     "hwsd.exe":"护卫神","hipstray.exe":"火绒","wsctrl.exe":"火绒","usysdiag.exe":"火绒","ekrn.exe":"ESET NOD32"}
 
 print("请将进程粘贴到此处,输入'end'结束！")
 name = input()
